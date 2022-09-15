@@ -1,0 +1,16 @@
+#title{
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#title h1{
+    color: white;
+    font-size: 8vh;
+}
+#main_body .title{
+    margin: 30px;
+    font-size: 6vh;
+    text-align: center;
+}
+

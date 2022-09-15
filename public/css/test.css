@@ -1,0 +1,15 @@
+.spinner{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    animation: spin infinite 1.3s;
+}
+
+@keyframes spin {
+    0%{
+        transform: rotateZ(0deg);
+    }
+    100%{
+        transform: rotateZ(360deg);
+    }
+}
